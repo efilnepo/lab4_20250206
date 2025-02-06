@@ -68,13 +68,6 @@ int main() {
             result = removeExtraSpaces(input_line);
             printf("Modified string: '%s'\n", result);
 
-            // clean_line(input_line);
-            
-            // // Print cleaned line
-            // printf("Cleaned line: %s\n", input_line);
-            
-            // Add to history
-            // add_history(input_line);
         }
         
         // Free the allocated memory
